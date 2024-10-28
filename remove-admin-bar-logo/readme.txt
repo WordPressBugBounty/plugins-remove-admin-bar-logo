@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/donate/?hosted_button_id=RH5CGYFRKA6AQ
 Tags: adminbar, toolbar, tool, admin, remove wp logo
 Requires at least: 5.0
 Tested up to: 6.6
-Stable tag: 1.1.0
+Stable tag: 1.1.5
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -25,7 +25,9 @@ Removes the Wordpress logo from the admin-bar for a cleaner look. No settings ne
 
 == Changelog ==
 
-= 1.1.4 =
+= 1.1.5 =
+
+1.1.5 – Upgrade for 6.7
 
 1.1.4 – Upgrade for 6.6
 
