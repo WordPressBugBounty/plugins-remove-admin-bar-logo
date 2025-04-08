@@ -3,7 +3,7 @@
    Plugin Name: Remove Admin Bar logo
    Plugin URI: https://www.mdbrx.com/wp-plugin/
    Description: Removes the Wordpress logo from the admin-bar for a cleaner look. No settings needed. Just enable the plugin and it will work instantly.
-   Version: 1.1.7
+   Version: 1.1.8
    Author: mdbrna
    Author URI: https://mdbrx.com/wp-plugin
    License: GPLv2 or later
